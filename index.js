@@ -21,5 +21,5 @@ fruList.appendChild(newFruit);
 //list
 let vegList = document.getElementById('vegList');
 let newVegetable = document.createElement('li');
-newVegetable.textContent = 'Brokoli';
+newVegetable.textContent = 'Broccoli';
 vegList.appendChild(newVegetable);
